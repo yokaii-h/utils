@@ -110,10 +110,7 @@ function git_pass
 	git push
 	
 	cd ..
-	# rm -rf $usr
 }
-
-
 
 
 usage() {
@@ -122,21 +119,6 @@ usage() {
 	echo "gcc : check code through gcc and build programm"
 	echo "gti : upload prj into github"
 	echo "-i  : init local code organization"
-}
-
-newbrn2_add()
-{
-	echo "add()"
-}
-
-newbrn2_add2()
-{
-	echo "add2()"
-}
-
-newbrn3_func()
-{
-	echo "newbrn2_func()"
 }
 
 

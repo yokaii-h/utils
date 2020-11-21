@@ -1,6 +1,6 @@
 <p float="left">
-  <img src="doc/wd.jpg" width="243" />
-  <img src="doc/school21.jpg" width="310" />
+  <img src=".doc/wd.jpg" width="243" />
+  <img src=".doc/school21.jpg" width="310" />
 </p>
 
 # Utils: wd vca
